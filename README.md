@@ -39,7 +39,7 @@ The system is designed as a distributed microservices architecture running insid
 ## 🚀 Getting Started
 
 ### Prerequisites
-*   Java 21+
+*   Java 25
 *   Docker & Kubernetes (`kubectl`)
 *   AWS CLI configured with proper IAM access to Bedrock, RDS, and EKS.
 
